@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Mini Golf</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_05</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Game</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Ball.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Game.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\GolfPanel.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Hole.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Level.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Wall.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+		<exclude>
+			<folderitem>
+				<path>spec</path>
+				<dir/>
+			</folderitem>
+		</exclude>
+	</files>
+	<tasks/>
+</project>

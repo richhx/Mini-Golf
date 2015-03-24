@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Mini Golf</label>
+	</settings>
+	<users>
+		<user>
+			<path>Mini Golf.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Mini Golf.jcp</path>
+		</project>
+	</projects>
+</workspace>

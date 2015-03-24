@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Mini Golf</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Mini Golf</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>img</path>
+			</folderitem>
+			<folderitem>
+				<path>levels</path>
+			</folderitem>
+			<folderitem>
+				<path>spec</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\GolfPanel.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\Game.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Ball.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Hole.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Level.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Wall.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
