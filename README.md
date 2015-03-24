@@ -1,2 +1,2 @@
 # Mini-Golf
-A 2D mini golf game created in APCS.
+This game was created by Aryan Zaferani, Richard Huang, and Sean McEntee as a project during APCS.
