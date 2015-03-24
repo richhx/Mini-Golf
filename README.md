@@ -1,2 +1,2 @@
 # Mini-Golf
-This game was created by Aryan Zaferani, Richard Huang, and Sean McEntee as a project in APCS.
+This game was created by Aryan Zaferani, Richard Huang, and Sean McEntee for a project in APCS.
